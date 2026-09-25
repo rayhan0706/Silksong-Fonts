@@ -1,0 +1,25 @@
+{
+  "spec": 1,
+  "name": "Perpetua",
+  "previewText": "Perpetua Font Family, a classical serif typeface known for its elegant, timeless letterforms",
+  "main": {
+      "ABCGintoNord-ExtraBold": "https://github.com/rayhan0706/Silksong-Fonts/raw/refs/heads/main/Perpetua.ttf",
+      "ggsans-Bold": "https://github.com/rayhan0706/Silksong-Fonts/raw/refs/heads/main/Perpetua.ttf",
+      "ggsans-BoldItalic": "https://github.com/rayhan0706/Silksong-Fonts/raw/refs/heads/main/Perpetua.ttf",
+      "ggsans-ExtraBold": "https://github.com/rayhan0706/Silksong-Fonts/raw/refs/heads/main/Perpetua.ttf",
+      "ggsans-ExtraBoldItalic": "https://github.com/rayhan0706/Silksong-Fonts/raw/refs/heads/main/Perpetua.ttf",
+      "ggsans-Medium": "https://github.com/rayhan0706/Silksong-Fonts/raw/refs/heads/main/Perpetua.ttf",
+      "ggsans-MediumItalic": "https://github.com/rayhan0706/Silksong-Fonts/raw/refs/heads/main/Perpetua.ttf",
+      "ggsans-Normal": "https://github.com/rayhan0706/Silksong-Fonts/raw/refs/heads/main/Perpetua.ttf",
+      "ggsans-NormalItalic": "https://github.com/rayhan0706/Silksong-Fonts/raw/refs/heads/main/Perpetua.ttf",
+      "ggsans-Semibold": "https://github.com/rayhan0706/Silksong-Fonts/raw/refs/heads/main/Perpetua.ttf",
+      "ggsans-SemiboldItalic": "https://github.com/rayhan0706/Silksong-Fonts/raw/refs/heads/main/Perpetua.ttf",
+      "NotoSans-Bold": "https://github.com/rayhan0706/Silksong-Fonts/raw/refs/heads/main/Perpetua.ttf",
+      "NotoSans-ExtraBold": "https://github.com/rayhan0706/Silksong-Fonts/raw/refs/heads/main/Perpetua.ttf",
+      "NotoSans-Medium": "https://github.com/rayhan0706/Silksong-Fonts/raw/refs/heads/main/Perpetua.ttf",
+      "NotoSans-Normal": "https://github.com/rayhan0706/Silksong-Fonts/raw/refs/heads/main/Perpetua.ttf",
+      "NotoSans-NormalItalic": "https://github.com/rayhan0706/Silksong-Fonts/raw/refs/heads/main/Perpetua.ttf",
+      "NotoSans-Semibold": "https://github.com/rayhan0706/Silksong-Fonts/raw/refs/heads/main/Perpetua.ttf",
+      "ggmono-Normal": "https://github.com/rayhan0706/Silksong-Fonts/raw/refs/heads/main/Perpetua.ttf"
+  }
+}
